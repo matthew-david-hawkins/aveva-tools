@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<DirectAccess> 
+<UpdateBlockAttribute Strategy="WAN1F20100" Block="SV5800A_ZSO" ParmName="IOMOPT" ParmValue="0" TypeName = "Tagname"/>
+<DeployBlock Strategy="WAN1F20100" Block="SV5800A_ZSO" TypeName="Tagname" Checkpoint="No"/>
+<UpdateBlockAttribute Strategy="WAN1F20100" Block="SV5800A_ZSC" ParmName="IOMOPT" ParmValue="0" TypeName = "Tagname"/>
+<DeployBlock Strategy="WAN1F20100" Block="SV5800A_ZSC" TypeName="Tagname" Checkpoint="No"/>
+<UpdateBlockAttribute Strategy="WAN1F20102" Block="SV5800AA_ZSO" ParmName="IOMOPT" ParmValue="0" TypeName = "Tagname"/>
+<DeployBlock Strategy="WAN1F20102" Block="SV5800AA_ZSO" TypeName="Tagname" Checkpoint="No"/>
+</DirectAccess>

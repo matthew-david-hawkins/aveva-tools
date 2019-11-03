@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<DirectAccess> <ReportOptions Directory="D:\REPORT\"/>
+
+<QueryFilter Filter="Filter1" Condition="NameEquals" Value="XCPXXX"/>
+
+<ProduceReport Type="TEXT" ReportName="ICCPRT" ICCPRTTYPE="PARAMETERS" FileName="XCPXXX_Report" Filter="Filter1" Cascade="Yes" DeployedFilter="All"/>
+ 
+</DirectAccess>

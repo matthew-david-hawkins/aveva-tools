@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectAccess>
+
+<MarkControllerAsUndeployed Cascade="Yes" Controller="CP0001"/>
+
+<MarkControllerAsUndeployed Cascade="Yes" Controller="CP0002"/>
+
+<MarkControllerAsUndeployed Cascade="Yes" Controller="CP0003"/>
+
+
+</DirectAccess>

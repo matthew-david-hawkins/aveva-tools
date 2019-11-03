@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectAccess>
+
+
+<DeleteController Controller="CP0001" Cascade="Yes"/>
+
+<DeleteController Controller="CP0002" Cascade="Yes"/>
+
+<DeleteController Controller="CP0003" Cascade="Yes"/>
+
+
+</DirectAccess>
